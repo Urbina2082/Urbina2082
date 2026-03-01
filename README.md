@@ -1,30 +1,25 @@
-# 👋 Hi, I'm Urbina Herrera
+👋 Hi, I'm Hector Urbina
 
-## Front-End Developer & Freelancer
+Front-End Developer & Freelancer
 
-I build modern, responsive, and user-friendly web interfaces using **Astro** and **React**.  
+I build modern, responsive, and user-friendly web interfaces using ASTRO and REACT.  
 I’m passionate about clean code, solid UI/UX, and turning ideas into fast, functional digital experiences.
 
----
 
-### 🚀 Tech Stack
+🚀 Tech Stack
 - HTML5  
 - CSS3 / Responsive Design  
 - JavaScript (ES6+)  
 - Astro  
 - React  
 
----
-
-### 💼 What I Do
+💼 What I Do
 - Front-End web development  
 - Responsive & accessible interfaces  
 - UI implementation from design to code  
 - Freelance projects & collaborations  
 
----
-
-### 🌱 Currently
+🌱 Currently
 - Improving performance and SEO with Astro  
 - Building scalable UI components with React  
 - Always learning and experimenting with new tools  
